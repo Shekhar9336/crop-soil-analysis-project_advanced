@@ -525,4 +525,5 @@ Mobile application
 
 GIS-based interactive field maps
 
-Integration with IoT soil sensors
+Integration with IoT soil sensors 
+but i make website of this  project
