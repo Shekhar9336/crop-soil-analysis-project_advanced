@@ -527,3 +527,5 @@ GIS-based interactive field maps
 
 Integration with IoT soil sensors 
 but i make website of this  project
+
+this is amazing project .
