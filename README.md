@@ -462,7 +462,7 @@ Prediction / Crop Suitability
 
 The final model should be validated against independent ground observations whenever possible.
 
-📌 Current Project Status
+my new Current Project Status
 
 Select/finalize ground dataset
 
