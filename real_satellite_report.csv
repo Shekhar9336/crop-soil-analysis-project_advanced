@@ -1,0 +1,5 @@
+Location,NDVI Source,Recommended Crop
+Punjab Farm Area,REAL (Sentinel-2),papaya
+Maharashtra Cotton Belt,REAL (Sentinel-2),pomegranate
+Kerala Coastal Farm,REAL (Sentinel-2),coffee
+Rajasthan Dry Region,REAL (Sentinel-2),jute
